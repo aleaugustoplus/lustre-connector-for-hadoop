@@ -25,3 +25,6 @@ Maven build goals:
 Installation:
 
 Please refer "Installation of HAL on Apache Hadoop.md" in this directory for details.
+
+
+https://aprendizadodemaquina.com
